@@ -14,7 +14,7 @@ Python
 pyTelegramBotAPI    
 requests    
 
-## Стек  
+## Конфиг    
 В файле `config.py` находятся токен для доступа к Telegram API и словарь со списком валют.  
 Пример файла:  
 
